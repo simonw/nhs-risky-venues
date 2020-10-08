@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl https://distribution-te-prod.prod.svc-test-trace.nhs.uk/distribution/risky-venues \
-          jq . > risky-venues.json
+          | jq . > risky-venues.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
