@@ -1,0 +1,36 @@
+{
+  "venues": [
+    {
+      "id": "5W8X6YXR",
+      "riskyWindow": {
+        "from": "2020-09-23T11:00:00Z",
+        "until": "2020-09-23T18:00:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "RJ6X9M9R",
+      "riskyWindow": {
+        "from": "2020-09-22T08:00:00Z",
+        "until": "2020-09-26T17:00:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "P52VW2K5",
+      "riskyWindow": {
+        "from": "2020-09-22T03:00:00Z",
+        "until": "2020-09-22T11:30:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "J5WM23P5",
+      "riskyWindow": {
+        "from": "2020-09-21T00:30:00Z",
+        "until": "2020-09-21T07:00:00Z"
+      },
+      "messageType": "M1"
+    }
+  ]
+}
