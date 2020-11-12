@@ -1,6 +1,14 @@
 {
   "venues": [
     {
+      "id": "P56K8MYR",
+      "riskyWindow": {
+        "from": "2020-11-03T09:00:00Z",
+        "until": "2020-11-03T23:00:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
       "id": "R9YY2PYR",
       "riskyWindow": {
         "from": "2020-10-31T08:00:00Z",
