@@ -1,3 +1,44 @@
 {
-  "venues": []
+  "venues": [
+    {
+      "id": "R9JVP865",
+      "riskyWindow": {
+        "from": "2020-12-11T00:00:00Z",
+        "until": "2020-12-11T23:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5WX6P3VR",
+      "riskyWindow": {
+        "from": "2020-12-10T00:00:00Z",
+        "until": "2020-12-10T23:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "RP964W25",
+      "riskyWindow": {
+        "from": "2020-12-09T00:00:00Z",
+        "until": "2020-12-09T23:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5699VY4R",
+      "riskyWindow": {
+        "from": "2020-12-08T00:00:00Z",
+        "until": "2020-12-08T23:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5WVM8YMR",
+      "riskyWindow": {
+        "from": "2020-12-08T00:00:00Z",
+        "until": "2020-12-08T23:59:00Z"
+      },
+      "messageType": "M1"
+    }
+  ]
 }
