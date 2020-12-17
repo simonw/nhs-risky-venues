@@ -1,66 +1,58 @@
 {
   "venues": [
     {
-      "id": "RJ2PM9WR",
+      "id": "5WYK32X5",
+      "riskyWindow": {
+        "from": "2020-12-13T00:00:00Z",
+        "until": "2020-12-13T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "546392Y5",
+      "riskyWindow": {
+        "from": "2020-12-13T00:00:00Z",
+        "until": "2020-12-13T23:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5MWVK3WY",
+      "riskyWindow": {
+        "from": "2020-12-13T00:00:00Z",
+        "until": "2020-12-13T23:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5W33Y3V5",
+      "riskyWindow": {
+        "from": "2020-12-12T00:00:00Z",
+        "until": "2020-12-12T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5XXW6VJ5",
+      "riskyWindow": {
+        "from": "2020-12-12T00:00:00Z",
+        "until": "2020-12-12T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "RP68V99R",
+      "riskyWindow": {
+        "from": "2020-12-12T00:00:00Z",
+        "until": "2020-12-12T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "4RK3YMRY",
       "riskyWindow": {
         "from": "2020-12-11T00:00:00Z",
-        "until": "2020-12-11T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "5XXW4YW5",
-      "riskyWindow": {
-        "from": "2020-12-10T00:00:00Z",
-        "until": "2020-12-10T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "RP9223WV",
-      "riskyWindow": {
-        "from": "2020-12-10T00:00:00Z",
-        "until": "2020-12-10T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "MR8X82RJ",
-      "riskyWindow": {
-        "from": "2020-12-09T00:00:00Z",
-        "until": "2020-12-09T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "RP2X2WJR",
-      "riskyWindow": {
-        "from": "2020-12-09T00:00:00Z",
-        "until": "2020-12-09T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "56882XYY",
-      "riskyWindow": {
-        "from": "2020-12-08T00:00:00Z",
-        "until": "2020-12-08T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "5Y868YYR",
-      "riskyWindow": {
-        "from": "2020-12-08T00:00:00Z",
-        "until": "2020-12-08T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "R8JMPY9R",
-      "riskyWindow": {
-        "from": "2020-12-08T00:00:00Z",
-        "until": "2020-12-08T23:59:00Z"
+        "until": "2020-12-11T23:59:59Z"
       },
       "messageType": "M1"
     }
