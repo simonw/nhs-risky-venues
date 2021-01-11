@@ -1,18 +1,26 @@
 {
   "venues": [
     {
-      "id": "5WMMJWJ5",
+      "id": "RK8MW9K5",
       "riskyWindow": {
-        "from": "2021-01-03T00:00:00Z",
-        "until": "2021-01-03T23:59:59Z"
+        "from": "2021-01-07T00:00:00Z",
+        "until": "2021-01-07T23:59:59Z"
       },
       "messageType": "M1"
     },
     {
-      "id": "5VXWV8WP",
+      "id": "RP2VWP2R",
       "riskyWindow": {
-        "from": "2021-01-02T00:00:00Z",
-        "until": "2021-01-02T23:59:59Z"
+        "from": "2021-01-04T00:00:00Z",
+        "until": "2021-01-04T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5M832KVR",
+      "riskyWindow": {
+        "from": "2021-01-03T00:00:00Z",
+        "until": "2021-01-03T23:59:59Z"
       },
       "messageType": "M1"
     }
