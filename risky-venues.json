@@ -1,10 +1,18 @@
 {
   "venues": [
     {
-      "id": "5W9PMKW5",
+      "id": "56XMKWY5",
       "riskyWindow": {
-        "from": "2021-01-11T00:00:00Z",
-        "until": "2021-01-11T23:59:59Z"
+        "from": "2021-01-09T00:00:00Z",
+        "until": "2021-01-09T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5WXW8WPR",
+      "riskyWindow": {
+        "from": "2021-01-09T00:00:00Z",
+        "until": "2021-01-09T23:59:59Z"
       },
       "messageType": "M1"
     }
