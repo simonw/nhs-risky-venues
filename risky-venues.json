@@ -1,20 +1,3 @@
 {
-  "venues": [
-    {
-      "id": "568M4KJ9",
-      "riskyWindow": {
-        "from": "2021-03-13T00:00:00Z",
-        "until": "2021-03-13T23:59:00Z"
-      },
-      "messageType": "M1"
-    },
-    {
-      "id": "568M88JM",
-      "riskyWindow": {
-        "from": "2021-03-13T00:00:00Z",
-        "until": "2021-03-13T23:59:00Z"
-      },
-      "messageType": "M1"
-    }
-  ]
+  "venues": []
 }
