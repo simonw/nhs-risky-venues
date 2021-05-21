@@ -1,3 +1,60 @@
 {
-  "venues": []
+  "venues": [
+    {
+      "id": "549PVYXR",
+      "riskyWindow": {
+        "from": "2021-05-18T00:00:00Z",
+        "until": "2021-05-18T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "56YKJWMR",
+      "riskyWindow": {
+        "from": "2021-05-18T00:00:00Z",
+        "until": "2021-05-18T22:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5Y9X24WM",
+      "riskyWindow": {
+        "from": "2021-05-17T00:00:00Z",
+        "until": "2021-05-17T23:59:59Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "RP42WX9R",
+      "riskyWindow": {
+        "from": "2021-05-17T00:00:00Z",
+        "until": "2021-05-17T22:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5M3XM2Y5",
+      "riskyWindow": {
+        "from": "2021-05-16T00:00:00Z",
+        "until": "2021-05-16T22:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "5M8W2VXR",
+      "riskyWindow": {
+        "from": "2021-05-16T00:00:00Z",
+        "until": "2021-05-16T22:59:00Z"
+      },
+      "messageType": "M1"
+    },
+    {
+      "id": "53X3MPWR",
+      "riskyWindow": {
+        "from": "2021-05-15T00:00:00Z",
+        "until": "2021-05-15T22:59:00Z"
+      },
+      "messageType": "M1"
+    }
+  ]
 }
