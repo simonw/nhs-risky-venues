@@ -1,503 +1,47 @@
 {
   "venues": [
     {
-      "id": "5M2MY48R",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R99VMKVR",
-      "riskyWindow": {
-        "from": "2021-09-07T00:00:00Z",
-        "until": "2021-09-07T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5VX3XXW3",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:06:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5V8YMJ95",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RKM2P9KR",
-      "riskyWindow": {
-        "from": "2021-09-04T00:00:00Z",
-        "until": "2021-09-04T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "53X6V96R",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R9M946XR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RP9X9K66",
-      "riskyWindow": {
-        "from": "2021-09-08T23:00:00Z",
-        "until": "2021-09-09T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5MWK3WW5",
-      "riskyWindow": {
-        "from": "2021-09-07T23:00:00Z",
-        "until": "2021-09-08T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RJV43MWR",
-      "riskyWindow": {
-        "from": "2021-09-06T23:00:00Z",
-        "until": "2021-09-07T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RKJ84935",
-      "riskyWindow": {
-        "from": "2021-09-07T23:00:00Z",
-        "until": "2021-09-08T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "P56YVM4R",
-      "riskyWindow": {
-        "from": "2021-09-07T23:00:00Z",
-        "until": "2021-09-08T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5Y392PW5",
-      "riskyWindow": {
-        "from": "2021-09-06T23:00:00Z",
-        "until": "2021-09-07T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RP9M4W4K",
-      "riskyWindow": {
-        "from": "2021-09-07T23:00:00Z",
-        "until": "2021-09-08T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "4RK84YM5",
-      "riskyWindow": {
-        "from": "2021-09-06T23:00:00Z",
-        "until": "2021-09-07T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5Y6YKJWR",
-      "riskyWindow": {
-        "from": "2021-09-07T23:00:00Z",
-        "until": "2021-09-08T22:59:59Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RJMY2925",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RJVK8VWR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "526Y6MY5",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5YYV49X5",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RPVXYMVR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5V88X4Y5",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R9J9W225",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5MWMYKXW",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5VK3WMKR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5X2Y34Y3",
-      "riskyWindow": {
-        "from": "2021-09-07T00:00:00Z",
-        "until": "2021-09-07T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "V5M94W85",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "542M939P",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5MWMKP2V",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RP2Y83VR",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "528KV6Y5",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RK338KKR",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5XVKM285",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5W3X2XP5",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RP8PYYXR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5422YWWM",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R8VJ8889",
-      "riskyWindow": {
-        "from": "2021-09-07T00:00:00Z",
-        "until": "2021-09-07T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R8VKJ3Y8",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R9JK48X5",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "X5YM3685",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "568WVMX9",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "54269PM3",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "52K688YR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5V9X844R",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R9J4WJ95",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5VXV6835",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5VX2XJ3K",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R9JJJKW9",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5MW9869V",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RK2MYVM5",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "54423Y35",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "53WW2VK4",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "568WV96J",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RPKM23V5",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5WV6626P",
-      "riskyWindow": {
-        "from": "2021-09-07T00:00:00Z",
-        "until": "2021-09-07T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "53MJK445",
-      "riskyWindow": {
-        "from": "2021-09-07T00:00:00Z",
-        "until": "2021-09-07T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "52JJYJX5",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RKYYV4PM",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "J5WVM9XR",
-      "riskyWindow": {
-        "from": "2021-09-06T00:00:00Z",
-        "until": "2021-09-06T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "542WJM35",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
       "id": "5684J9M5",
       "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
       },
       "messageType": "M2"
     },
     {
-      "id": "53VWXK6R",
+      "id": "RP8V2K6R",
       "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
+        "from": "2021-09-07T23:00:00Z",
+        "until": "2021-09-08T22:59:59Z"
       },
       "messageType": "M2"
     },
     {
-      "id": "RK34J68R",
+      "id": "52VJXPX5",
+      "riskyWindow": {
+        "from": "2021-09-07T23:00:00Z",
+        "until": "2021-09-08T22:59:59Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RKYM8YK6",
+      "riskyWindow": {
+        "from": "2021-09-07T23:00:00Z",
+        "until": "2021-09-08T22:59:59Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5YK4YYY5",
+      "riskyWindow": {
+        "from": "2021-09-09T00:00:00Z",
+        "until": "2021-09-09T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "R93JXJVR",
       "riskyWindow": {
         "from": "2021-09-07T00:00:00Z",
         "until": "2021-09-07T22:59:00Z"
@@ -505,7 +49,7 @@
       "messageType": "M2"
     },
     {
-      "id": "R8YVX495",
+      "id": "RJJYVX8R",
       "riskyWindow": {
         "from": "2021-09-06T00:00:00Z",
         "until": "2021-09-06T22:59:00Z"
@@ -513,71 +57,15 @@
       "messageType": "M2"
     },
     {
-      "id": "R8VXY396",
+      "id": "RP9M26JV",
       "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
       },
       "messageType": "M2"
     },
     {
-      "id": "5Y6MXKMR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R828X92R",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "R8V82M39",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "533KW6V5",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5Y3V6Y95",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "5492JYVR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "P563KJXR",
-      "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
-      },
-      "messageType": "M2"
-    },
-    {
-      "id": "RJ6WY28R",
+      "id": "R8PKM29R",
       "riskyWindow": {
         "from": "2021-09-07T00:00:00Z",
         "until": "2021-09-07T22:59:00Z"
@@ -585,26 +73,322 @@
       "messageType": "M2"
     },
     {
-      "id": "V5V4WW45",
+      "id": "52WPYYPY",
       "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
       },
       "messageType": "M2"
     },
     {
-      "id": "5VX23969",
+      "id": "R9YWW9YR",
       "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
       },
       "messageType": "M2"
     },
     {
-      "id": "RK223V25",
+      "id": "5M484P9R",
       "riskyWindow": {
-        "from": "2021-09-05T00:00:00Z",
-        "until": "2021-09-05T22:59:00Z"
+        "from": "2021-09-09T00:00:00Z",
+        "until": "2021-09-09T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RJM89895",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5X248X2Y",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RJJJ6WMR",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "52VY39X5",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "52W23W8R",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5YM43X85",
+      "riskyWindow": {
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5V6YVP35",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "R8MWM2M5",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5X9V284R",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "54W2W6XR",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "52W4XVXX",
+      "riskyWindow": {
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RP8363KR",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "52W9P29R",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "53W998W5",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "52W46XX9",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RPXP6KVR",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5XYWJMYR",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "52W9943Y",
+      "riskyWindow": {
+        "from": "2021-09-09T00:00:00Z",
+        "until": "2021-09-09T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RKYV39M2",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5WPV46XR",
+      "riskyWindow": {
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5W333YM5",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RP848JVR",
+      "riskyWindow": {
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "56W926JR",
+      "riskyWindow": {
+        "from": "2021-09-09T00:00:00Z",
+        "until": "2021-09-09T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5VK48V4R",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5Y66XMMR",
+      "riskyWindow": {
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "KR94WJP5",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "J5W82YVR",
+      "riskyWindow": {
+        "from": "2021-09-08T00:00:00Z",
+        "until": "2021-09-08T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "R96XXV95",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RJV66MYM",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "R9JKMPXX",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5M8J92KR",
+      "riskyWindow": {
+        "from": "2021-09-06T00:00:00Z",
+        "until": "2021-09-06T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "R8VJ3M2R",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "548KVMV5",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5Y6J3V8R",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "RPVP36VR",
+      "riskyWindow": {
+        "from": "2021-09-10T00:00:00Z",
+        "until": "2021-09-10T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "R93JV69R",
+      "riskyWindow": {
+        "from": "2021-09-09T00:00:00Z",
+        "until": "2021-09-09T22:59:00Z"
+      },
+      "messageType": "M2"
+    },
+    {
+      "id": "5MVVYKVR",
+      "riskyWindow": {
+        "from": "2021-09-07T00:00:00Z",
+        "until": "2021-09-07T22:59:00Z"
       },
       "messageType": "M2"
     }
